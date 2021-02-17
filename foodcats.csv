@@ -1,4 +1,4 @@
-food_category,consumption,co2_emmission,food_origin
+food_category,mean_consumption,mean_co2_emmission,food_origin
 Pork,16.12369231,57.07007692,Pig
 Poultry,21.21923077,22.79353846,Chicken
 Beef,12.12338462,374.102,Cow
